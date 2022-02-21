@@ -4,7 +4,7 @@
 
 -   [English](./english/README.md)
 
-## 外语学习
+## 学习网站
 
 -   [德语](http://rrurl.cn/j3JW4z)
 -   [法语](http://rrurl.cn/j40wd2)

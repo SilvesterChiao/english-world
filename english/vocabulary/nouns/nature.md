@@ -1,0 +1,114 @@
+# nature
+
+-   world: 世界
+-   earth: 地球
+-   sky: 天空
+-   land: 地
+-   sun: 太阳
+-   moon: 月亮
+-   star: 星星
+-   plant: 植物
+-   animal: 动物
+-   geography: 地理
+-   terrain/landform: 地形地貌
+-   mine: 矿产
+-   climate: 气候
+
+-   sea: 海
+-   ocean: 海洋
+-   beach: 海滩
+-   wave: 波浪
+-   island: 岛屿
+-   tide: 潮汐
+-   harbour: 港湾
+-   wharf: 码头
+-   port: 港口
+-   coast/shore: 海岸
+-   sea level/sea surface: 海面
+-   ocean current: 洋流
+
+-   soil: 土地
+-   land: 大地
+-   horizon: 地平线
+-   continent: 洲, 大洲, 大陆
+-   mountain: 山
+-   cliff: 悬崖
+-   scarp: 坡
+-   volcano: 火山
+-   range: 山脉
+-   peak: 山峰，山顶
+-   valley: 山谷
+-   desert: 沙漠
+-   basin: 盆地
+-   field: 田野
+-   rainforest: 雨林
+-   jungle: (热带)丛林
+-   plateau/highland: 高原
+-   champaign/plain: 平原
+-   firn/neve/ice sheet: 冰原
+-   wilderness/moor: 荒野
+-   forest: 树林
+-   river: 河
+-   lake: 湖
+-   tree: 树
+-   bush: 灌木(丛)
+-   grass: 草
+-   flower: 花
+-   root: 根
+-   leaf: 叶子
+-   rock: 岩石
+-   stone: 石头
+-   sand: 沙子
+-   hill: 山丘，丘陵
+-   waterfall: 瀑布
+-   spring: 泉水
+-   stream/brook: 小溪
+-   glacier: 冰川
+-   glacier: 运河
+-   pool: 水池
+-   pond: 池塘
+-   reservoir: 水库
+-   marsh/swamp/bog/palus: 沼泽
+-   wet land: 湿地
+-   mud: 泥
+-   mire: 泥潭
+-   dust/dirt: 尘
+-   ash: 灰烬
+
+-   air: 空气
+-   airflow: 气流
+-   cool air/cold air/freezing air: 冷空气
+-   air pressure: 气压
+-   monsoon: 季风
+-   weather: 天气/气象
+-   overcast: 阴
+-   sunny: 晴
+-   rainbow: 彩虹
+-   aurora: 极光
+-   solar eclipse: 日食
+-   lunar eclipse: 月食
+-   afterglow: 晚霞
+-   moisture: 潮气, 湿气, 水分
+-   rain: 雨
+-   snow: 雪
+-   wind: 风
+-   hurricane: 飓风
+-   frost: 霜
+-   cloud: 云
+-   fog/mistiness: 雾
+-   smog: 霾
+-   smoke: 烟
+-   snowstorm: 暴风雪
+-   sleet: 雨夹雪/雹
+-   rainstorm/heavy rain/moderate rain/light rain: 暴雨/大雨/中雨/小雨
+-   blizzard/heavy snow/moderate snow/light snow: 暴雪/大雪/中雪/小雪
+-   driz/mizzle: 细雨
+-   fire: 火
+-   ice: 冰
+-   vapour: 水蒸气
+-   water: 水
+-   heat: 热量
+-   temperature: 温度
+-   humidness: 湿度
+
+-   coal: 煤

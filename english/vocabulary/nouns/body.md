@@ -1,0 +1,98 @@
+# body
+
+-   head: 头
+-   hair: 头发
+-   forehead: 额头
+-   face: 脸
+-   cheek: 脸颊
+-   eyebrow: 眉毛
+-   eye: 眼睛
+-   ear: 耳朵
+-   tear: 眼泪
+-   nose: 鼻子
+-   booger: 鼻屎
+-   mustache: 胡子
+-   mouth: 嘴巴
+-   lip: 嘴唇
+-   beard: 胡子
+-   tooth: 牙齿
+-   tongue: 舌头
+-   chin: 下巴
+-   neck: 脖子
+-   throat: 喉咙
+-   Adam's apple: 喉结
+-   chest: 胸部
+-   breast: 乳房
+-   boob: 乳房
+-   tit: 乳头
+-   back: 背部
+-   spine: 脊椎
+-   bottom: 臀部
+-   butt: 屁股
+-   ass: 屁股
+-   anal: 肛门
+-   shoulder: 肩膀
+-   arm: 手臂
+-   elbow: 肘
+-   wrist: 手腕
+-   hand: 手
+-   palm: 手掌
+-   fist: 拳头
+-   finger: 手指
+-   index finger: 食指
+-   middle finger: 中指
+-   ring finger: 无名指
+-   pinky: 小指
+-   thumb: 拇指
+-   fingernail: 手指甲
+-   nail: 指甲
+-   thigh: 大腿
+-   lap: (坐着时的)大腿部
+-   leg: 腿
+-   knee: 膝盖
+-   foot: 足
+-   toe: 脚趾头
+-   sole: 脚掌
+-   genitals: 生殖器
+-   pussy
+-   dick
+-   cock
+-   skin: 皮肤
+-   crus: 肌肉
+-   fat: 脂肪
+-   protein: 蛋白质
+-   DNA
+-   RNA
+-   cell: 细胞
+-   hormone: 激素
+
+-   purtenance: 内脏
+-   tripe: 肚子
+-   abdomen: 腹部
+-   left(right) upper(lower) abdomen: 左上腹
+-   belly: 腹部
+-   brain: 大脑
+-   heart: 心脏
+-   lung: 肺
+-   liver: 肝脏
+-   stomach: 胃, 腹部
+-   kidney: 肾脏
+-   bone: 骨头
+-   rib: 肋骨
+-   blood: 血液
+-   nerve: 神经
+-   sweat: 汗液
+-   voice: 声音
+-   disease: 疾病
+-   cancer: 癌症
+-   stone: 结石
+-   ulcer: 溃疡
+-   flu: 感冒
+-   sneezes: 打喷嚏
+-   sternutation: 喷嚏
+-   fever: 发烧
+-   headache: 头疼
+-   virus: 病毒
+-   operation: 手术
+-   prescription: 处方
+-   x-ray: X光

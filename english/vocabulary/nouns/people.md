@@ -1,0 +1,42 @@
+# people
+
+-   son: 儿子
+-   daughter: 女儿
+-   mother: 母亲
+-   father: 父亲
+-   parent: 父母
+-   baby: 婴儿
+-   man: 男人
+-   woman: 女人
+-   brother: 兄弟
+-   sister: 姐妹
+-   family: 家庭
+-   grandfather: 祖父
+-   busband: 丈夫
+-   wife: 妻子
+-   king: 国王
+-   queen: 女王
+-   president: 总统
+-   neighbor: 邻居
+-   boy: 男孩
+-   girl: 女孩
+-   child: 孩子
+-   adult: 成人
+-   human: 人类
+-   friend: 朋友
+-   victim: 受害者
+-   player: 玩家
+-   fan: 粉丝
+-   crowd: 人群
+-   person: 人物
+-   mentor: 导师, 指导者
+-   listener: 倾听者  (电台广播的)收听者
+-   builder: 建筑工人, 建筑公司  创建者
+-   slave: 奴隶
+-   undergraduate: 在校本科生, 大学生
+-   policeman: 警察
+-   shareholder: 股东
+-   counselor: 顾问, 律师
+-   celebrity: 名人, 明星
+-   master: 
+-   foreigner: 外国人

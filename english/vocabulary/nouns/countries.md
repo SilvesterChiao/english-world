@@ -1,0 +1,97 @@
+# countries
+
+-   flag: 国旗
+-   Anthem: 国歌
+-   Capital: 首都
+-   Official languages: 官方语言
+-   Official script: 官方文字
+-   Religion : 宗教
+-   Currency: 货币
+-   Time zone: 时区
+-   Date format: 日期格式
+-   area: 领土
+-   total: 总领土
+-   water: 水域
+-   Population: 人口
+-    Density: 密度
+-   GDP: GDP
+-   Per capita: 人均
+-   Gini: 基尼系数
+-   Driving side: 驾驶侧
+-   HDI: HDI
+-   Calling code: 国际代码
+-   ISO 3166 code: ISO编码
+
+-   Continents: 大陆
+    -   Asia: 亚洲
+    -   Europe: 欧洲
+    -   Africa: 非洲
+    -   Americas: 美洲
+    -   Australia (continent): 澳洲
+    -   Antarctica: 南极洲
+-   Countries in Europe: 欧洲国家
+    -   Austria: 奥地利
+    -   Belarus: 白俄罗斯
+    -   Belgium: 比利时
+    -   Bosnia and Herzegovina: 波黑
+    -   Bulgaria: 保加利亚
+    -   Croatia: 克罗地亚
+    -   Cyprus: 塞浦路斯
+    -   Czech Republic: 捷克
+    -   Denmark: 丹麦
+    -   Finland: 芬兰
+    -   France: 法国
+    -   Germany: 德国
+    -   Greece: 希腊
+    -   Hungary: 匈牙利
+    -   Iceland: 冰岛
+    -   Republic of Ireland: 爱尔兰
+    -   Italy: 意大利
+    -   Lithuania: 立陶宛
+    -   Luxembourg: 卢森堡
+    -   Malta: 马耳他
+    -   Monaco: 摩纳哥
+    -   Montenegro: 黑山
+    -   Netherlands: 荷兰
+    -   Norway: 挪威
+    -   Poland: 波兰
+    -   Portugal: 葡萄牙
+    -   Romania: 罗马尼亚
+    -   Russia: 俄罗斯
+    -   Serbia: 塞尔维亚
+    -   Slovakia: 斯洛伐克
+    -   Slovenia: 斯洛文尼亚
+    -   Spain: 西班牙
+    -   Sweden: 瑞典
+    -   Switzerland: 瑞士
+    -   Ukraine: 乌克兰
+    -   United Kingdom: 英国
+    -   Vatican City: 梵蒂冈
+-   Countries in Asia: 亚洲国家
+    -   Cambodia: 柬埔寨
+    -   China: 中国
+    -   India: 印度
+    -   Indonesia: 印度尼西亚
+    -   Malaysia: 马来西亚
+    -   Maldives: 马尔代夫
+    -   Myanmar: 缅甸
+    -   Philippines: 菲律宾
+    -   Singapore: 新加坡
+    -   Sri Lanka: 斯里兰卡
+    -   Thailand: 泰国
+    -   Vietnam: 越南
+    -   Japan: 日本
+    -   South Korea: 韩国
+    -   North Korea: 朝鲜
+-   Countries in North America: 北美国家
+    -   Canada: 加拿大
+    -   United States: 美国
+-   Countries in South America: 南美国家
+    -   Argentina: 阿根廷
+    -   Brazil: 巴西
+    -   Chile: 智利
+    -   Colombia: 哥伦比亚
+    -   Peru: 秘鲁
+-   Countries in Australasia: 澳洲国家
+    -   Australia: 澳大利亚
+    -   New Zealand: 新西兰

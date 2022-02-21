@@ -1,0 +1,36 @@
+# Space
+
+-   astronomy: 天文
+-   Cosmos: 宇宙
+-   universe: 宇宙
+-   space: 太空
+-   Sun: 太阳
+-   Moon: 月亮
+-   Star: 星星
+-   Mercury: 水星
+-   Venus: 金星
+-   Eather: 地球
+-   Mars: 火星
+-   Jupiter: 木星
+-   Saturn: 土星
+-   Saturn: 天王星
+-   Neptune: 海王星
+-   Neptune: 冥王星
+-   planet: 行星
+-   asteroid/planetoid/minor planet: 小行星
+-   solar system: 太阳系
+-   the Milky Way: 银河系
+-   Orion: 猎户座
+-   Sirius: 天狼星
+-   light years: 光年
+-   galaxy: 星系
+-   Andromeda: 仙女座
+-   Polaris: 北极星
+-   big dipper: 北斗星
+-   black hole: 黑洞
+-   Comet: 彗星
+-   meteor: 流星
+-   meteoroid: 流星体
+-   meteorite: 陨石
+-   atmosphere: 大气层
+-   ground: 地面

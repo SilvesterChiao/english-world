@@ -1,0 +1,22 @@
+# color
+
+-   light: 浅
+-   dark: 深
+-   bright: 鲜艳的
+-   red: 红色
+-   orange: 橙色
+-   yellow: 黄色
+-   green: 绿色
+-   blue: 蓝色
+-   brown: 棕色
+-   pink: 粉色
+-   black: 黑色
+-   white: 白色
+-   gray: 灰色
+-   grey: 灰色
+-   purple: 紫色
+-   silver: 银色
+-   silvery: 银色的
+-   gold: 金色
+-   golden: 金色的
+-   multicoloured: 多彩的

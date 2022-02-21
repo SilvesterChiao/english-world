@@ -1,0 +1,70 @@
+# buildings
+
+-   city: 城市
+-   country: 乡村
+-   countryside: 乡下
+-   town: 城镇
+-   tower: 塔
+-   bridge: 桥
+-   road/RD: 路
+-   street/ST: 街道
+-   avenue/AVE: 大道
+-   lane/LN: 巷道
+-   driveway: 私人车道, 私家车道
+-   Boulvard/Blvd: 大道
+-   Cirle/Cir: 环道
+-   metro/underground/subway地铁
+-   bus: 公交车
+-   taxi: 出租车
+-   station: 车站
+-   airport: 飞机场
+
+-   block: 街区
+-   bank: 银行
+-   school: 学校
+-   supermarket: 超市
+-   police office: 警察局
+-   hospital: 医院
+-   post office: 邮局
+-   fire station: 消防局
+-   museum: 博物馆
+-   park: 公园
+-   library: 图书馆
+-   bus stop: 公交站
+-   theater: 电影院
+-   bakery: 面包店
+-   restaurant: 餐厅
+-   zoo: 动物园
+-   mall: 商场
+-   bar: 酒吧
+-   hotel: 旅馆，酒店
+-   coffee shop: 咖啡厅
+-   convenience store: 便利店
+-   store: 商店
+-   market: 市场
+-   factory: 工厂
+-   church: 教堂
+-   cinema: 电影院
+-   gas: 加油站
+-   takeout: 外卖
+-   Groceries: 杂货店
+-   Pharmacies: 药店
+-   club: 俱乐部
+-   shop: 商店
+-   starbucks: 星巴克
+-   McDonald's: 麦当劳
+-   KFC: 肯德基
+-   centre: 中心
+-   college: 学院
+-   landmark: 地标
+-   grocery: 食杂店
+-   mansion: 公馆, 宅第; 公寓, 大厦
+-   cottage: (乡间)小屋, 村舍
+-   retailer: 零售商, 零售商店
+-   inn: 小旅馆, 小酒馆
+-   motel: 汽车旅店
+
+-   house: 房子
+-   room: 房间
+-   villa: 别墅
+-   porch: 门厅，走廊

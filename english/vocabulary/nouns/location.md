@@ -1,0 +1,35 @@
+# location
+
+-   city: 城市
+-   house: 住宅
+-   apartment: 公寓
+-   street: 街道
+-   road: 道路
+-   airport: 机场
+-   train station: 火车站
+-   bridge: 桥
+-   hotel: 酒店
+-   restaurant: 餐厅
+-   farm: 农场
+-   court: 法院
+-   school: 学校
+-   office: 办公室
+-   room: 房间
+-   town: 城镇
+-   university: 大学
+-   club: 俱乐部
+-   bar: 酒吧
+-   park: 公园
+-   camp: 营地
+-   store: 商场
+-   shop: 商场
+-   theater: 剧院
+-   library: 图书馆
+-   hospital: 医院
+-   church: 教堂
+-   market: 市场
+-   country: 国家
+-   building: 建筑
+-   ground: 地面
+-   space: 太空
+-   bank: 银行

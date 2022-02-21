@@ -1,0 +1,45 @@
+# home
+
+-   table: 桌子
+-   chair: 椅子
+-   bed: 床
+-   dream: 梦
+-   window: 窗口
+-   door: 门
+-   bedroom: 卧室
+-   kitchen: 厨房
+-   bathroom: 浴室
+-   pencil: 铅笔
+-   pen: 笔
+-   photograph: 相片
+-   soap: 肥皂
+-   book: 书
+-   page: 页面
+-   key: 钥匙
+-   paint: 油漆
+-   letter: 信件
+-   note: 笔记
+-   wall: 墙壁
+-   paper: 纸张
+-   floor: 地板
+-   ceiling: 天花板
+-   roof: 屋顶
+-   pool: 游泳池
+-   lock: 锁
+-   telephone: 电话
+-   garden: 花园
+-   yard: 院子
+-   needle: 针
+-   bag: 包
+-   box: 盒子
+-   gift: 礼物
+-   card: 卡片
+-   ring: 戒指
+-   tool: 工具
+-   blanket: 毯子, 毛毯
+-   thread: 线
+-   ladder: 梯子
+-   rod: 杆, 棒
+-   packet: 小包, 小盒
+-   lawn: 草坪, 草地
+-   bolt: 插销, 螺栓

@@ -1,0 +1,36 @@
+# math or measurements
+
+-   meter: 米
+-   centimeter: 厘米
+-   kilometre: 千米
+-   kilogram: 公斤
+-   : 克
+-   inch: 英寸
+-   foot: 英尺
+-   pound: 磅
+-   half: 一半
+-   circle: 圆形
+-   sphere: 球形
+-   square: 正方形
+-   date: 日期
+-   weight: 重量
+-   edge: 边缘
+-   corner: 角落
+-   : 圆周率
+-   : 分数
+-   : 小数
+-   : 百分数
+-   : 小数点
+-   : 百分号
+-   : 加
+-   : 减
+-   : 乘
+-   : 除
+-   : 等于
+-   : 不等于
+-   : 约等于
+-   : 分子
+-   : 分母
+-   : 集合
+-   : 方程
+-   

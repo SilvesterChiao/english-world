@@ -1,0 +1,62 @@
+# numbers
+
+-   zero: 0
+-   one: 1
+-   two: 2
+-   three: 3
+-   four: 4
+-   five: 5
+-   six: 6
+-   seven: 7
+-   eight: 8
+-   nine: 9
+-   ten: 10
+-   eleven: 11
+-   twelve: 12
+-   thirteen: 13
+-   fourteen: 14
+-   fifteen: 15
+-   sisteen: 16
+-   seventeen: 17
+-   eighteen: 18
+-   nineteen: 19
+-   twenty: 20
+-   twenty one: 21
+-   twenty two: 22
+-   thirty: 30
+-   thirty one: 31
+-   thirty two: 32
+-   forty: 40
+-   forty one: 41
+-   forty two: 42
+-   fifty: 50
+-   fifty one: 51
+-   fifty two: 52
+-   sixty: 60
+-   sixty one: 61
+-   sixty two: 62
+-   seventy: 70
+-   seventy one: 71
+-   seventy two: 72
+-   eighty: 80
+-   eighty one: 81
+-   eighty two: 82
+-   ninety: 90
+-   ninety one: 91
+-   ninety two: 92
+-   one hundred: 100
+-   one hundred and one: 101
+-   one hundred and two: 102
+-   one hundred and ten: 110
+-   one hundred and eleven: 110
+-   one thousand: 1000
+-   one thousand and one: 1001
+-   ten thousand: 10000
+-   one hundred thousand: 100000
+-   million: 1000000
+-   billion: 1000000000
+-   first/1st: 第一
+-   second/2nd: 第二
+-   third/3rd: 第三
+-   fourth/4th: 第四
+-   fifth/5th: 第五

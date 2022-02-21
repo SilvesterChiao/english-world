@@ -1,0 +1,34 @@
+# society
+
+-   religion: 宗教
+-   heaven: 天堂
+-   hell: 地狱
+-   death: 死亡
+-   medicine: 医学
+-   money: 金钱
+-   dollar: 美元
+-   bill: 账单
+-   marriage: 婚姻
+-   wedding: 婚礼
+-   team: 团队
+-   race(ethnicity): 种族
+-   sex(the act): 性行为
+-   murder: 谋杀
+-   prison: 监狱
+-   technology: 科技
+-   energy: 能源
+-   war: 战争
+-   peace: 和平
+-   attack: 攻击
+-   election: 选举
+-   magazine: 杂志
+-   newspaper: 报纸
+-   poison: 毒药
+-   gun: 枪支
+-   sport: 体育
+-   race(sport): 赛跑
+-   exercise: 运动
+-   sign: 迹象
+-   science: 科学
+-   god: 上帝
+-   devil: 魔鬼
