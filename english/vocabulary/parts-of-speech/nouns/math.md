@@ -1,0 +1,206 @@
+# Math or Measurements
+
+-   range: 范围
+-   mean: 平均数
+-   size: 尺寸
+-   arithmetic: 算数
+-   calculus: 微积分
+-   statistics: 统计
+-   integer: 整数
+-   even number: 偶数
+-   odd: number: 奇数
+-   prime number: 素数
+-   fraction: 分数
+-   decimal: 小数
+-   decimal point: 小数点
+-   percent: 百分数
+-   percentage: 百分比
+-   theorem: 定理
+-   proof: 证明
+-   problem: 数学题
+-   solution: 解答
+-   formula: 公式
+-   equation: 等式
+-   graph: 图标
+-   axis: 轴
+-   average: 平均数
+-   correlation: 相关
+-   probability: 概率
+-   dimensions: 尺寸
+-   circumference: 圆周
+-   diameter: 直径
+-   radius: 半径
+-   length: 长度
+-   height: 高度
+-   width: 宽度
+-   perimeter: 周长
+-   angle: 角度
+-   right angle: 直角
+-   line: 线
+-   straight line: 直线
+-   curve: 曲线
+-   parallel: 平行线
+-   tangent: 切线
+-   volume: 体积
+-   algebra: 代数
+    -   fraction: 分数
+    -   : 小数
+    -   : 百分数
+    -   : 小数点
+    -   : 百分号
+    -   Mathematical symbols: 数学符号
+    -   addition: 加法
+    -   subtraction: 减法
+    -   multiplication: 乘法
+    -   division: 除法
+    -   to add: 加
+    -   to subtract/to take away: 减
+    -   to multiply: 乘
+    -   to divide: 除
+    -   to calculate: 计算
+    -   total: 总数
+    -   plus: 加
+    -   minus: 减
+    -   times/multiplied by: 乘
+    -   divided by: 除
+    -   squared: 平方
+    -   cubed: 立方
+    -   square root: 平方根
+    -   equals: 等于
+    -   : 不等于
+    -   : 约等于
+    -   : 分子
+    -   : 分母
+    -   : 集合
+    -   equation: 方程式
+    -   One plus one equals two
+-   geometry: 几何
+    -   点
+    -   线
+    -   面
+    -   angle: 角
+        -   degree: 度
+        -   right angle: 直角
+        -   acute angle: 锐角
+    -   length: 长度
+    -   distance: 距离
+        -   meter: 米
+        -   centimeter: 厘米
+        -   kilometre: 千米
+        -   inch: 英寸
+        -   foot: 英尺
+    -   weight: 重量
+        -   kilogram: 千克, 公斤
+        -   gram: 克
+        -   pound: 磅
+        -   ton: 吨
+    -   形状
+        -   equilateral: 等边的
+        -   边
+        -   角
+        -   弧形
+        -   circle: 圆形
+        -   oval: 椭圆形
+        -   三角形: triangle
+        -   square: 正方形, 直角, 平方, 四边形
+        -   rectangle: 长方形, 矩形
+        -   trapezium: 梯形
+        -   pentagon: 五边形
+        -   hexagon: 六边形
+        -   octagon: 八边形
+        -   polygon: 多边形
+        -   star: 星形
+        -   平行四边形
+        -   sphere: 球形
+        -   正方体
+        -   cube: 立方体
+        -   cylinder: 圆柱体
+        -   cone: 圆锥体
+        -   pyramid: 棱锥体, 四面体
+    -   area: 面积
+        -   square metre: 平方米
+    -   volume: 量, 体积, 音量
+    -   edge: 边缘
+    -   corner: 角落
+    -   : 圆周率
+
+## Number
+
+-   负
+-   half: 一半
+-   quarter: 四分之一
+-   once: 一次
+-   twice: 两次, 两倍
+-   three times: 三次
+
+### 基数词
+
+-   zero: 0
+-   one: 1
+-   two: 2
+-   three: 3
+-   four: 4
+-   five: 5
+-   six: 6
+-   seven: 7
+-   eight: 8
+-   nine: 9
+-   ten: 10
+-   eleven: 11
+-   twelve: 12
+-   thirteen: 13
+-   fourteen: 14
+-   fifteen: 15
+-   sisteen: 16
+-   seventeen: 17
+-   eighteen: 18
+-   nineteen: 19
+-   twenty: 20
+-   twenty one: 21
+-   twenty two: 22
+-   thirty: 30
+-   thirty one: 31
+-   thirty two: 32
+-   forty: 40
+-   forty one: 41
+-   forty two: 42
+-   fifty: 50
+-   fifty one: 51
+-   fifty two: 52
+-   sixty: 60
+-   sixty one: 61
+-   sixty two: 62
+-   seventy: 70
+-   seventy one: 71
+-   seventy two: 72
+-   eighty: 80
+-   eighty one: 81
+-   eighty two: 82
+-   ninety: 90
+-   ninety one: 91
+-   ninety two: 92
+-   one hundred: 100
+-   one hundred and one: 101
+-   one hundred and two: 102
+-   one hundred and ten: 110
+-   one hundred and eleven: 110
+-   one thousand: 1000
+-   one thousand and one: 1001
+-   ten thousand: 10000
+-   one hundred thousand: 100000
+-   million: 1000000
+-   billion: 1000000000
+-   trillion: 一万亿, 大量, 无数
+
+### 序数词
+
+-   first/1st: 第一
+-   second/2nd: 第二
+-   third/3rd: 第三
+-   fourth/4th: 第四
+-   fifth/5th: 第五
+
+## 量词
+
+-   double
+-   triple

@@ -1,0 +1,119 @@
+# food
+
+-   餐厅
+-   menu: 菜单
+-   : 账单
+-   seed: 种子
+-   breakfast: 早餐
+-   lunch: 午餐
+-   dinner: 晚餐
+-   餐具
+    -   knife: 刀子
+    -   spoon: 勺子
+    -   fork: 叉子
+    -   plate: 盘子
+    -   cup: 杯子
+    -   bottle: 瓶子
+    -   lid: 盖子
+    -   pipe: 管子
+    -   tray: 托盘
+    -   bucket: 桶
+    -   basket: 篮子
+    -   bowl: 碗
+-   调料
+    -   oil: 油
+    -   sugar: 食糖
+    -   salt: 盐
+    -   jam: 果酱
+    -   honey: 蜂蜜
+-   nut: 坚果
+-   peanut: 花生
+
+-   egg: 鸡蛋
+-   fried egg: 煎蛋
+-   cheese: 奶酪
+-   butter: 黄油, 奶油
+-   cream: 奶油
+-   yoghurt: 酸奶
+-   ice cream: 冰淇淋
+-   pizza: 披萨
+-   pie: 派, 馅饼
+-   burger: 汉堡
+-   sausage: 香肠
+-   hot dog: 热狗
+-   chips(UK)/fries(US): 薯条
+-   chocolate: 巧克力
+-   bread: 面包
+-   toast
+-   cake: 蛋糕
+-   soup: 汤
+-   roll: 卷
+-   noodles: 面条
+-   buhaer: 
+-   salad
+-   sandwich
+-   meat: 肉
+    -   meatballs: 肉丸
+    -   turkey: 火鸡
+    -   chicken: 鸡肉
+    -   pork: 猪肉
+    -   beef: 牛肉
+    -   steak: 牛排
+    -   fish: 鱼肉
+    -   lamp: 羊肉
+    -   ham: 火腿
+-   谷物, 主食
+    -   corn: 玉米
+    -   rice: 大米
+    -   小麦
+    -   面粉
+-   fruits: 水果
+    -   peel: 皮
+    -   core: 核
+    -   shell: 壳
+    -   apple: 苹果
+    -   banana: 香蕉
+    -   grapes: 葡萄
+    -   lemons: 柠檬
+    -   mongo: 芒果
+    -   orange: 橙子
+    -   pineapple: 菠萝
+    -   watermelon: 西瓜
+    -   coconut: 椰子
+    -   kiwi: 猕猴桃
+    -   peach: 桃
+    -   cherry: 樱桃
+    -   pear: 梨
+    -   plum: 李子
+    -   apricot: 杏
+    -   blackberry: 黑莓
+    -   blueberry: 蓝莓
+    -   strawberry: 草莓
+    -   blackcurrant: 黑加仑
+    -   fig: 无花果
+    -   melon: 瓜
+    -   lime: 酸橙
+-   vegetable: 蔬菜
+    -   carrots: 胡萝卜
+    -   onions: 洋葱
+    -   garlic: 大蒜
+    -   peas: 豌豆
+    -   potatoes: 土豆
+    -   tomatoes: 西红柿
+    -   bean
+    -   mushroom: 蘑菇
+    -   pepper: 辣椒
+-   beverages: 饮料
+-   drinks: 酒, 饮料
+    -   lemonade: 柠檬水
+    -   coffee: 咖啡
+    -   tea: 茶
+    -   wine: 葡萄酒
+    -   beer: 啤酒
+    -   juice: 果汁
+    -   water: 水
+    -   milk: 牛奶
+    -   alcohol: 酒精饮料
+    -   soda: 苏打水
+    -   cola: 可乐
+    -   champagne: 香槟

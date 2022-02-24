@@ -1,0 +1,87 @@
+# People
+
+-   person: 人物
+-   human: 人类
+-   crowd: 人群
+-   adult: 成人
+-   boy: 男孩
+-   girl: 女孩
+-   child: 儿童, 孩子
+-   kid: 小孩
+-   kinswoman
+-   relative
+-   relation
+-   family: 家庭, 家人
+-   man: 男人
+-   woman: 女人
+-   male
+-   female
+-   baby: 婴儿
+-   newborn
+-   grandparent: 祖父母
+-   grandfather: 祖父
+-   grandpa:
+-   grandmother: 祖母
+-   grandma: 
+-   parent: 父母
+-   father: 父亲
+-   dad/daddy/dada
+-   pa/papa
+-   mother: 母亲
+-   ma/mama/mamma
+-   mom/mum
+-   mommy/mammy/mummy
+-   uncle
+-   aunt
+-   aunty
+-   auntie
+-   brother: 兄弟
+-   sister: 姐妹
+-   sibling
+-   cousin: 
+-   son: 儿子
+-   daughter: 女儿
+-   triplet
+-   twin
+-   husband: 丈夫
+-   wife: 妻子
+-   grandchild: 孙子
+-   father-in-law
+-   mother-in-law
+-   brother-in-law
+-   sister-in-law
+-   sibling-in-law
+-   cousin-in-law
+-   son-in-law
+-   daughter-in-law
+-   stepfamily
+-   stepparent
+-   stepfather
+-   stepmother
+-   stepbrother
+-   stepsister
+-   stepson
+-   stepdaughter
+-   stepchild
+
+-   classmate: 同学
+-   foreigner: 外国人
+-   friend: 朋友
+-   neighbor: 邻居
+-   player: 玩家
+-   celebrity: 名人, 明星
+-   policeman: 警察
+-   counselor: 顾问, 律师
+-   mentor: 导师, 指导者
+-   undergraduate: 在校本科生, 大学生
+-   shareholder: 股东
+-   builder: 建筑工人, 建筑公司  创建者
+-   listener: 倾听者  (电台广播的)收听者
+-   master: 主人, 大师
+-   fan: 粉丝
+-   president: 总统
+-   victim: 受害者
+-   king: 国王
+-   queen: 女王
+-   slave: 奴隶
+-   philosopher: 哲学家

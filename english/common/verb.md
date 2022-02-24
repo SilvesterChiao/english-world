@@ -1,5 +1,13 @@
 # 动词短语
 
+## go
+
+## make
+
+## take
+
+## do
+
 -   play tennis
 -   watch TV
 -   get up
@@ -13,4 +21,4 @@
 -   坐公交
 -   运动
 -   跑步
--   
+-   make a mistake: 犯错

@@ -43,6 +43,7 @@
     -   France: 法国
     -   Germany: 德国
     -   Greece: 希腊
+    -   Greek: 希腊的, 希腊人, 希腊语
     -   Hungary: 匈牙利
     -   Iceland: 冰岛
     -   Republic of Ireland: 爱尔兰
@@ -70,6 +71,7 @@
 -   Countries in Asia: 亚洲国家
     -   Cambodia: 柬埔寨
     -   China: 中国
+    -   Chinese
     -   India: 印度
     -   Indonesia: 印度尼西亚
     -   Malaysia: 马来西亚

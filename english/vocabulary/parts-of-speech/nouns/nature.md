@@ -1,4 +1,4 @@
-# nature
+# Nature
 
 -   world: 世界
 -   earth: 地球
@@ -12,6 +12,7 @@
 -   geography: 地理
 -   terrain/landform: 地形地貌
 -   mine: 矿产
+-   mineral: 矿物, 矿物质, 矿产
 -   climate: 气候
 
 -   sea: 海

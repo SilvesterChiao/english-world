@@ -1,4 +1,4 @@
-# society
+# Society
 
 -   religion: 宗教
 -   heaven: 天堂

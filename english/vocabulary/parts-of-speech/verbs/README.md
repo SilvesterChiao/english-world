@@ -1,4 +1,4 @@
-# verbs
+# Verbs
 
 -   work: 工作
 -   play: 玩耍

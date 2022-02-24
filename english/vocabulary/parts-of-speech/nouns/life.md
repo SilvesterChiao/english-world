@@ -13,4 +13,4 @@
 -   injury: 温度
 -   hole: 日期
 -   image: 重量
--   pattern: 边缘
+-   pattern: 模式

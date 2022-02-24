@@ -23,6 +23,12 @@
 -   bank: 银行
 -   school: 学校
 -   supermarket: 超市
+    -   购物车
+    -   结账
+    -   单价
+    -   总价
+    -   sale
+    -   折扣
 -   police office: 警察局
 -   hospital: 医院
 -   post office: 邮局
@@ -68,3 +74,81 @@
 -   room: 房间
 -   villa: 别墅
 -   porch: 门厅，走廊
+-   location
+
+# transportation
+
+-   train: 火车
+-   plane: 飞机
+-   car: 汽车
+-   truck: 卡车
+-   lorry: 卡车, 货车
+-   bicycle: 自行车
+-   bus: 公共汽车
+-   boat: 小艇
+-   ship: 船
+-   tire: 轮胎
+-   gasoline: 汽油
+-   engine: 引擎
+-   ticket: 票
+-   texi: 出租车
+-   subway: 地铁
+-   : 有轨电车
+-   : 磁悬浮列车
+-   : 摩托车
+-   bike: 自行车
+
+# location
+
+-   city: 城市
+-   house: 住宅
+-   apartment: 公寓
+-   street: 街道
+-   road: 道路
+-   airport: 机场
+-   train station: 火车站
+-   bridge: 桥
+-   hotel: 酒店
+-   restaurant: 餐厅
+-   farm: 农场
+-   court: 法院
+-   school: 学校
+-   office: 办公室
+-   room: 房间
+-   town: 城镇
+-   university: 大学
+-   club: 俱乐部
+-   bar: 酒吧
+-   park: 公园
+-   camp: 营地
+-   store: 商场
+-   shop: 商场
+-   theater: 剧院
+-   library: 图书馆
+-   hospital: 医院
+-   church: 教堂
+-   market: 市场
+-   country: 国家
+-   building: 建筑
+-   ground: 地面
+-   space: 太空
+-   bank: 银行
+
+# directions
+
+-   top: 顶部
+-   bottom: 底部
+-   side: 侧面
+-   front: 前面
+-   back: 后面
+-   outside: 外面
+-   inside: 里面
+-   up: 上面
+-   down: 下面
+-   left: 左边
+-   right: 右边
+-   straight: 直
+-   north: 北部
+-   south: 南部
+-   east: 东部
+-   west: 西部
